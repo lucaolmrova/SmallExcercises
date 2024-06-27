@@ -1,0 +1,14 @@
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.exe
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.deps.json
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.runtimeconfig.json
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.dll
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\bin\Debug\net8.0\ECommerceApp.pdb
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfoInputs.cache
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.AssemblyInfo.cs
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.csproj.CoreCompileInputs.cache
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.dll
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\refint\ECommerceApp.dll
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.pdb
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ECommerceApp.genruntimeconfig.cache
+C:\Users\LucieOlmrova\RiderProjects\ECommerceApp\ECommerceApp\obj\Debug\net8.0\ref\ECommerceApp.dll
