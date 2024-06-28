@@ -31,4 +31,9 @@ public class ShoppingCart
         return totalPrice;
     }
 
+    public void EmptyCart()
+    {
+        Products.Clear();
+    }
+
 }

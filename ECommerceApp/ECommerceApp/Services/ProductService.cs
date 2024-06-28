@@ -10,9 +10,9 @@ public class ProductService
     {
         products = new List<Product>
         {
-            new Product { Id = 1, Name = "Laptop", Price = 1000, Stock = 1 },
-            new Product { Id = 2, Name = "Smartphone", Price = 700, Stock = 1 },
-            new Product { Id = 3, Name = "Tablet", Price = 300, Stock = 1 }
+            new Product { Id = 1, Name = "Laptop", Price = 1000, Stock = 2 },
+            new Product { Id = 2, Name = "Smartphone", Price = 700, Stock = 2 },
+            new Product { Id = 3, Name = "Tablet", Price = 300, Stock = 2 }
         };
     }
 

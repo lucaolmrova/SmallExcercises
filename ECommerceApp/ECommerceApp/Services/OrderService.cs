@@ -21,6 +21,7 @@ public class OrderService
         var shoppingCart = customer.ShoppingCart;
         var order = new Order(shoppingCart.Products, customer);
         orders.Add(order);
+        customer.ShoppingCart.EmptyCart();
     }
 
     public List<Order> GetAllOrders()

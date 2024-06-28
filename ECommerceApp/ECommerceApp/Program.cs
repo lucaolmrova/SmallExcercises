@@ -68,8 +68,14 @@ class Program
                     Console.WriteLine("Write customer id:");
                     int orderCustomerId = int.Parse(Console.ReadLine());
                     orderService.CreateOrder(orderCustomerId);
+                    
                     break;
                 case "6":
+                    Console.WriteLine("Write product id:");
+                    int productToDiscount = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Enter discount percentage:");
+                    decimal discount = decimal.Parse(Console.ReadLine());
+                    productService.ApplyDiscount(productToDiscount, discount);
                     break;
                 case "7":
                     var orders = orderService.GetAllOrders();
